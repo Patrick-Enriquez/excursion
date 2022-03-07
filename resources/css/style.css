@@ -20,7 +20,15 @@ body {
 
 .header--sun-header {
     font-size: 21px;
-    color: gray;
+    color: grey;
+}
+
+/* Footer */
+
+.footer--copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
 }
 
 /* Links */
